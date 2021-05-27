@@ -1,0 +1,10 @@
+<svg viewBox="0 0 260 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0H260V180H0V0Z" fill="var(--color-contrast-lower)"/>
+<path d="M0 110L260 70V180H0V110Z" fill="var(--color-primary)"/>
+<rect x="58" y="45" width="144" height="7" fill="var(--color-contrast-medium)"/>
+<rect x="58" y="26" width="87" height="9" fill="var(--color-contrast-high)"/>
+<rect x="58" y="57" width="78" height="7" fill="var(--color-contrast-medium)"/>
+<rect opacity="0.7" x="58" y="135" width="144" height="7" fill="var(--color-bg)"/>
+<rect x="58" y="116" width="87" height="9" fill="var(--color-bg)"/>
+<rect opacity="0.7" x="58" y="147" width="78" height="7" fill="var(--color-bg)"/>
+</svg>
